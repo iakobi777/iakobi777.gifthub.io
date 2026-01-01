@@ -1,2 +1,3 @@
-# iakobi777.gifthub.io
-My gifthub website!
+# iakobi777.github.io
+
+## My gifthub website!
